@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.friend-hover-green:hover {
+    background-color: green;
+    border-color: green;
+}
+
+.friend-hover-red:hover {
+    background-color: red;
+    border-color: red;
+}
